@@ -1,6 +1,6 @@
 # Hi, I'm Hilal 👋
 
-![alt text](https://cdn.discordapp.com/attachments/1067439304965640263/1275827628238045218/data_analysis.jpg?ex=66c74e92&is=66c5fd12&hm=035d4504db56758fb4caebcc801561babed6611a7559bfd7f2b5cc4d2afb7601&)
+![alt text]([https://cdn.discordapp.com/attachments/1067439304965640263/1275827628238045218/data_analysis.jpg?ex=66c74e92&is=66c5fd12&hm=035d4504db56758fb4caebcc801561babed6611a7559bfd7f2b5cc4d2afb7601&](https://media.discordapp.net/attachments/1067439304965640263/1275827628238045218/data_analysis.jpg?ex=66ce8ed2&is=66cd3d52&hm=07935f52889176272349db591a8bc6aa4b00e95bebb3b0b5b10e038399a61431&=&format=webp))
  
 ## About Me
 
