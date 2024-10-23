@@ -1,6 +1,6 @@
 # Hi, I'm Hilal 👋
 
-![alt text](https://imgur.com/a/tk288Ml)
+![alt text](https://i.imgur.com/0pabrrb.jpeg)
  
 ## About Me
 
