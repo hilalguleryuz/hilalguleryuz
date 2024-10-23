@@ -1,6 +1,6 @@
 # Hi, I'm Hilal 👋
 
-![alt text](https://github.com/hilalguleryuz/foto/blob/main/data_analysis.jpg)
+![alt text](https://imgur.com/a/tk288Ml)
  
 ## About Me
 
