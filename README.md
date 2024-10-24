@@ -10,11 +10,11 @@
 ## Work Experience
 - 🚀 I have started my data analyst career at Turkish Airlines and worked in this role for 3.5 years. 
 - 🚀 During this period, I utilized Microsoft Excel to analyze raw data and create impactful dashboards. 
-- 🚀 To further advance my career in data analysis, I enrolled a data analyst training program at Kodlasam education platform. This program has provided me with skills in data analysis and visualization tools, including PostgreSQL, Python, and Power BI, in addition to Excel.
+- 🚀 To further advance my career in data analysis, I enrolled a data analyst program at Kodlasam education platform. This program has provided me with skills in data analysis and visualization tools, including PostgreSQL, Python, and Power BI, in addition to Excel.
 - 🚀 At the end of each module, I complete a capstone project utilizing the relevant program. So, I had the opportunity to create my portfolio using different tools in the field of data analysis.
 
 ## Career Goals
-- 💹 As a passionate and continuously evolving data analyst, I am pursuing a career in the field of data analysis. I am dedicated to extracting meaningful insights from raw data and visualizing these analyses effectively. 
+- 💹 I am pursuing a career in the field of data analysis. I am dedicated to extracting meaningful insights from raw data and visualizing these analyses effectively. 
 - 💹 I enjoy in performing detailed data analysis using SQL and Python, and visualizing data insights with Power BI and Excel. 
 - 💹 In addition to my technical skills, I am continuously enhancing my knowledge and staying updated with the latest tools and methodologies in data analysis. 
 - 💹 My experience with various data projects has equipped me with the skills to handle diverse datasets and deliver impactful results.
