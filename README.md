@@ -4,8 +4,8 @@
  
 ## Education
 
-🎯 I am graduated from Bogazici University, Department of Economics.
-🎯 I am focused on skills in manipulating and visualizing data and gaining insights from it.
+- 🎯 I am graduated from Bogazici University, Department of Economics.
+- 🎯 I am focused on skills in manipulating and visualizing data and gaining insights from it.
 
 ## Work Experience
 🚀 I have started my data analyst career at Turkish Airlines and worked in this role for 3.5 years. 
