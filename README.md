@@ -15,8 +15,7 @@
 
 ## Career Goals
 - 💹 I am pursuing a career in the field of data analysis. I am dedicated to extracting meaningful insights from raw data and visualizing these analyses effectively. 
-- 💹 I enjoy in performing detailed data analysis using SQL and Python, and visualizing data insights with Power BI and Excel. 
-- 💹 In addition to my technical skills, I am continuously enhancing my knowledge and staying updated with the latest tools and methodologies in data analysis. 
+- 💹 I enjoy in performing detailed data analysis using SQL and Python, and visualizing data insights with Power BI and Excel.
 - 💹 My experience with various data projects has equipped me with the skills to handle diverse datasets and deliver impactful results.
 
 ## Skills 
