@@ -4,7 +4,7 @@
  
 ## Education
 
-- 🎯 I am graduated from Bogazici University, Department of Economics.
+- 🎯 I graduated from Bogazici University, Department of Economics.
 - 🎯 I am focused on skills in manipulating and visualizing data and gaining insights from it.
 
 ## Work Experience
