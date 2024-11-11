@@ -5,7 +5,7 @@
 ## Education
 
 - 🎯 I graduated from Bogazici University, Department of Economics.
-- 🎯 I participated in the Advanced Data Analysis training program for one year on the Kodlasam education platform. This program has provided me with skills in data analysis and visualization tools, including MS Excel, PostgreSQL, Python, and Power BI. At the end of each module, I complete a capstone project utilizing the relevant program. So, I had the opportunity to create my portfolio using different tools in the field of data analysis.
+- 🎯 I participated in the Advanced Data Analysis training program for one year on the Kodlasam education platform which has provided me with skills in data analysis and visualization tools, including MS Excel, PostgreSQL, Python, and Power BI. - - 🎯 At the end of each module, I complete a capstone project utilizing the relevant program. So, I had the opportunity to create my portfolio using different tools in the field of data analysis.
 
 ## Work Experience
 - 🚀 I have started my data analyst career at Turkish Airlines and worked in this role for 3.5 years. 
